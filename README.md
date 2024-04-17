@@ -86,6 +86,18 @@ The distributions of age and each mental health condition are visualized using b
 ### Conclusion
 Through this analysis, we aim to provide insights into how music preferences may influence mental well-being. The results obtained can serve as a basis for further research and potentially inform interventions or therapeutic approaches leveraging music.
 
+## Examples
+![Depression by Genre](images/depression_by_genre.png)
+
+![OCD by Genre](images/OCD_and_genres.png)
+
+![Insomnia by Genre](images/insomnia_and_genres.png)
+
+![Anxiety by Genre](images/anxiety_by_genre.png)
+
+
+
+
 #### Contributors
 * Randolph Bradley
 * Jacqueline Columbro
