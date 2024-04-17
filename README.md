@@ -15,6 +15,15 @@ The project utilizes several Python libraries for data analysis and visualizatio
 * **Scipy (scipy)**: For statistical analysis.
 * **Matplotlib**: For creating visualizations.
 
+## Project Structure
+The project repository is organized into branches corresponding to each mental health condition analyzed:
+* **Depression**: Contains code and analysis related to depression.
+* **OCD**: Contains code and analysis realted to OCD.
+* **Insomnia**: Contains code and analysis related to insomnia.
+* **Anxiety**: Contains code and analysis related to anxiety.
+
+Each branch includes scripts, notebooks, and visualizations specific to the respective mental health condition.
+
 ## Data Preprocessing
 1. The CSV data is read into a Pandas DataFrame, with the first column serving as the row index. 
 2. The 'Timestamp' column, which is irrelevant to our analysis, is dropped. 
