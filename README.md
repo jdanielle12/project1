@@ -95,6 +95,11 @@ Through this analysis, we aim to provide insights into how music preferences may
 
 ![Anxiety by Genre](images/anxiety_by_genre.png)
 
+## Acknowledgements
+### Dataset Credits
+The data used in this project was sourced from Kaggle. We would like to acknowledge and thank the following dataset author:
+- **[Music & Mental Health]([link_to_dataset](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results/data))** by Catherine Rasgaitis
+- This dataset contains survey responses related to mental health and music preferences. We used this dataset to analyze the correlations between favorite music genres and mental health conditions.
 
 
 
