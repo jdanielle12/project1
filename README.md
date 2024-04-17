@@ -15,6 +15,22 @@ The project utilizes several Python libraries for data analysis and visualizatio
 * **Scipy (scipy)**: For statistical analysis.
 * **Matplotlib**: For creating visualizations.
 
+## Installation
+To run the code locally, follow these steps:
+1. Clone the repository to your machine:
+   1. git clone `https://github.com/jdanielle12/project1`
+2. Navigate to the project directory:
+   1. `cd project1`
+3. Install the required Python libraries:
+   1. `pip install -r requirements.txt`
+
+## Usage
+1. Ensure you have Python installed on your machine.
+2. Install the project dependencies as described in the installation section.
+3. Navigate to the notebook file/branch. For example: `Depression.ipynb` from the project explorer.
+4. Open the notebook using the Jupyter extension in VSCode.
+5. Run the cells within the notebook to execute the analysis interactively. 
+
 ## Project Structure
 The project repository is organized into branches corresponding to each mental health condition analyzed:
 * **Depression**: Contains code and analysis related to depression.
