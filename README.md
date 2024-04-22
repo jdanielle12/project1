@@ -106,5 +106,6 @@ The data used in this project was sourced from Kaggle. We would like to acknowle
 #### Contributors
 * Randolph Bradley
 * Jacqueline Columbro
+* Walter Hickman Jr.
 * Kyle Kerner 
 * Jamie McGraner
